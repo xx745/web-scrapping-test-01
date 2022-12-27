@@ -4,6 +4,7 @@
   "description": "web scrapping test",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/xx745/web-scrapping-test-01/issues"
   },
-  "homepage": "https://github.com/xx745/web-scrapping-test-01#readme"
+  "homepage": "https://github.com/xx745/web-scrapping-test-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.7"
+  }
 }
