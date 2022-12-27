@@ -1,0 +1,24 @@
+{
+  "name": "web-scrapping-test-01",
+  "version": "1.0.0",
+  "description": "web scrapping test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xx745/web-scrapping-test-01.git"
+  },
+  "keywords": [
+    "web",
+    "scrapping",
+    "node"
+  ],
+  "author": "xx745",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xx745/web-scrapping-test-01/issues"
+  },
+  "homepage": "https://github.com/xx745/web-scrapping-test-01#readme"
+}
